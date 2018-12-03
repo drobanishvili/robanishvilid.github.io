@@ -52,4 +52,4 @@ Apache License
 
 ##Задания
 
-(1.1 Конспект)
+[1.1 Конспект](https://github.com/drobanishvili/robanishvilid.github.io/blob/master/1.1%20%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82)
