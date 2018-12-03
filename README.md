@@ -52,4 +52,4 @@ Apache License
 
 ##Задания
 
-[1.1 Конспект](robanishvilid.github.io/1.1 Конспект.md)
+[1.1 Конспект](robanishvilid.github.io/1.1 Конспект)
