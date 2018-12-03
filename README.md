@@ -50,6 +50,6 @@ Apache License
 
 Разумеется, право на изменение лицензии не означает возможности её отзыва. Никто не имеет права менять условия, которые уже были однажды определены.
 
-##Задания
+## Основные Задания
 
-[1.1 Конспект](https://github.com/drobanishvili/robanishvilid.github.io/blob/master/1.1%20%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82)
+[1.1 Конспект](https://raw.githubusercontent.com/drobanishvili/robanishvilid.github.io/master/1.1%20%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82)
